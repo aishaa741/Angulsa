@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './fifth.component.css'
 })
 export class FifthComponent {
-
+gatto = 'Zampa 2'
 }
